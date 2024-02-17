@@ -1,5 +1,5 @@
 import React from 'react'
-import AppStoreImg from "../../assets/website/app_Store.png"
+import AppStoreImg from "../../assets/website/app_store.png"
 import BgPng from  "../../assets/website/coffee-beans-bg.Png"
 import PlayStoreImg from "../../assets/website/Play_Store.png"
 
