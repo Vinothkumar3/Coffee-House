@@ -62,7 +62,7 @@ Premium coffee could be defined as a clean, acceptable bean with a distinctive f
                 <h1 className='text-2xl  font-semibold font-cursive'>Tea Lover</h1>
                 <p className='text-gray-500 text-sm'>
                   {" "}
-                  Much like writing code, brewing the perfect cup of tea
+                  Much like writing code,  brewing the perfect cup of tea
                       requires patience, precision, and a dash of passion to
                       create a comforting blend of flavors.
                 </p>
