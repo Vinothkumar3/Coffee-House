@@ -1,6 +1,6 @@
 import React from 'react'
 import AppStoreImg from "../../assets/website/app_store.png"
-import BgPng from  "../../assets/website/coffee-beans-bg.Png"
+import BgPng from  "../../assets/website/coffee-beans-bg.png"
 import PlayStoreImg from "../../assets/website/Play_Store.png"
 
 const backgroundStyle={
